@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddisEats.Exercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ca8fbadca35ddcdf34d898de07aa6fb2f48309")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a15ea7b8026dd4f7c90247dea30e4492deb6ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddisEats.Exercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddisEats.Exercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
